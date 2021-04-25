@@ -1,2 +1,2 @@
-# weshackCode
-code for weshack
+# HousingOptionsMadeEasy
+Wesleyan Housing Options Made Easy
